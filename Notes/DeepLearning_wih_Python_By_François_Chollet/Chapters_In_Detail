@@ -1,0 +1,14 @@
+:: CONTENTS ::
+
+PART 1. FUNDAMENTALS OF DEEP LEARNING .................................. 1
+1 ■ What is deep learning? 3
+2 ■ Before we begin: the mathematical building blocks of neural
+networks 25
+3 ■ Getting started with neural networks 56
+4 ■ Fundamentals of machine learning 93
+PART 2. DEEP LEARNING IN PRACTICE ........................................ 117
+5 ■ Deep learning for computer vision 119
+6 ■ Deep learning for text and sequences 178
+7 ■ Advanced deep-learning best practices 233
+8 ■ Generative deep learning 269
+9 ■ Conclusions 314
